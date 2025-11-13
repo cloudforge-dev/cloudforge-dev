@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm CloudForge
 
-<!--
-**cloudforge-dev/cloudforge-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | React • Node.js • React Native
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I build modern web and mobile applications with a focus on **clean code, scalability, and user experience**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technical Skills
+
+**Frontend**
+- React, Next.js, TailwindCSS
+- React Native (Expo)
+- HTML5, CSS3, JavaScript (ES6+)
+
+**Backend**
+- Node.js (Express), PHP, Java
+- RESTful APIs, Real-time Services
+- PostgreSQL, MongoDB
+
+**DevOps & Tools**
+- Docker, Kubernetes (K3s)
+- Linux (Ubuntu), Git
+- Vercel, Railway, AWS basics
+
+---
+
+## 🚀 Featured Projects
+
+Coming soon...
+
+---
+
+## 📫 Let's Connect
+
+- **Email**: cloudforge.dev@gmail.com
+- **GitHub**: [@cloudforge-dev](https://github.com/cloudforge-dev)
+
+---
+
+⭐ If you find my work interesting, feel free to star my repositories!
